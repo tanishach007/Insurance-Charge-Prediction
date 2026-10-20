@@ -1,4 +1,5 @@
 💰 Insurance Charge Prediction using Machine Learning
+
 📌 Project Overview
 Insurance Charge Prediction is an end-to-end Machine Learning regression project developed to predict the estimated insurance charges of customers based on their demographic, medical, policy, and lifestyle-related information.
 
